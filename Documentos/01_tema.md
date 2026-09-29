@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 * Grupo: `[preencher]`
-* Integrantes: ``Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Heriques André, Letícia Schnabl e Ryan Belizario``
+* Integrantes: ``Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Rafael Vargas, Letícia Schnabl e Ryan Belizario``
 * Data: `22/09/2026`
 
 ## Preenchimento
@@ -56,4 +56,4 @@ O crescimento dos sistemas digitais aumentou significativamente a quantidade de 
 
 | Integrante | Atividade realizada                    |
 | ---------- | -------------------------------------- |
-| `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Heriques André, Letícia Schnabl e Ryan Belizario`   | Definição e delimitação do tema , Pesquisa e elaboração da justificativa e Revisão e organização do conteúdo      |
+| `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Rafael Vargas, Letícia Schnabl e Ryan Belizario`   | Definição e delimitação do tema, pesquisa, elaboração da justificativa e revisão do conteúdo. |

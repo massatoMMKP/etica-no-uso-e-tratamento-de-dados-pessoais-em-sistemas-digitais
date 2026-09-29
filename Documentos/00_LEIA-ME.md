@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `Design Profissional`
 - Professor ou orientador: `Isabella Luiza Dos Santos Souza`
 - Grupo: `[preencher]`
-- Integrantes: `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Heriques André, Letícia Schnabl e Ryan Belizario`
+- Integrantes: `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Rafael Vargas, Letícia Schnabl e Ryan Belizario`
 - Data de início: `22/09/2026`
 
 

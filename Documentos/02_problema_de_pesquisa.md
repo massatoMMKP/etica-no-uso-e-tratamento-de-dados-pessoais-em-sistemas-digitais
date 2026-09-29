@@ -47,4 +47,4 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 | Integrante | Atividade realizada                   |
 | ---------- | ------------------------------------- |
-| `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Heriques André, Letícia Schnabl e Ryan Belizario`   | Elaboração da pergunta de pesquisa, Verificação do alinhamento com o tema e Revisão e organização do conteúdo     |
+| `Matheus Peçanha, Gustavo Carvalho, Stheffany Souza, Rafael Vargas, Letícia Schnabl e Ryan Belizario`   | Elaboração da pergunta de pesquisa, verificação do alinhamento com o tema e revisão do conteúdo. |
