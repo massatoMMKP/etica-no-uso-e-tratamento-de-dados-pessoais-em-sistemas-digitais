@@ -1,4 +1,4 @@
-# Etapa 3 — Objetivo geral e objetivos específicos
+# Etapa 3: Objetivo geral e objetivos específicos
 
 ## Solicitação
 

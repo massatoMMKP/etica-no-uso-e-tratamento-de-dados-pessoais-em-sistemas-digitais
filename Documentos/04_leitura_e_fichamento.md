@@ -1,4 +1,4 @@
-# Etapa 4 — Leitura e fichamento
+# Etapa 4: Leitura e fichamento
 
 ## Solicitação
 
@@ -10,7 +10,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Identificação do artigo
 
-* Referência completa: ALMEIDA, Siderly do Carmo Dahle de; SOARES, Tania Aparecida. Os impactos da Lei Geral de Proteção de Dados — LGPD no cenário digital. *Perspectivas em Ciência da Informação*, v. 27, n. 3, p. 26–45, 2022.
+* Referência completa: ALMEIDA, Siderly do Carmo Dahle de; SOARES, Tania Aparecida. Os impactos da Lei Geral de Proteção de Dados (LGPD) no cenário digital. *Perspectivas em Ciência da Informação*, v. 27, n. 3, p. 26–45, 2022.
 * DOI ou URL: https://doi.org/10.1590/1981-5344/25905
 * Base de origem: SciELO Brasil
 * Leitores responsáveis: Matheus Peçanha e Letícia Schnabl.

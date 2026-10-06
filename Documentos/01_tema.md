@@ -1,4 +1,4 @@
-# Etapa 1 — Tema e delimitação
+# Etapa 1: Tema e delimitação
 
 ## Solicitação
 

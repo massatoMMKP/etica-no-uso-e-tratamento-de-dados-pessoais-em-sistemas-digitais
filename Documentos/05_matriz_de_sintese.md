@@ -1,4 +1,4 @@
-# Etapa 5 — Matriz de síntese e organização da revisão
+# Etapa 5: Matriz de síntese e organização da revisão
 
 ## Solicitação
 
@@ -20,21 +20,21 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Roteiro da revisão da literatura
 
-### Eixo 1 — Princípios da LGPD
+### Eixo 1: Princípios da LGPD
 
 * Ideia principal: A LGPD estabelece princípios que devem orientar decisões técnicas e organizacionais durante todo o tratamento.
 * Evidências que serão usadas: Almeida e Soares (2022) sistematizam os impactos e princípios; Freund, Macedo e Fagundes (2023) relacionam LGPD, ISO/IEC 29100 e Privacy by Design.
 * Comparação entre estudos: O primeiro explica o dever de adequação; o segundo demonstra como registrar evidências de conformidade.
 * Ligação com o problema: Profissionais de TI devem aplicar finalidade, necessidade, transparência, segurança, prevenção, não discriminação e responsabilização.
 
-### Eixo 2 — Vigilância, privacidade e autonomia
+### Eixo 2: Vigilância, privacidade e autonomia
 
 * Ideia principal: Monitoramento e criação de perfis podem afetar pessoas mesmo quando a coleta ocorre em atividades cotidianas.
 * Evidências que serão usadas: Moreira, Razzolini e Adrião (2023) analisam 19 estudos; Almeida e Soares (2022) relacionam a proteção à autodeterminação informativa.
 * Comparação entre estudos: A revisão mostra riscos éticos da vigilância; a análise documental apresenta as obrigações brasileiras de proteção.
 * Ligação com o problema: O profissional deve avaliar necessidade, proporcionalidade, finalidade e efeitos de classificações e decisões automatizadas.
 
-### Eixo 3 — Evidências e prestação de contas
+### Eixo 3: Evidências e prestação de contas
 
 * Ideia principal: Responsabilização exige demonstrar, com registros verificáveis, que controles de privacidade funcionam.
 * Evidências que serão usadas: O COM.PRIVACY foi aplicado em uma operadora de saúde e avaliado por seis especialistas (Freund; Macedo; Fagundes, 2023).

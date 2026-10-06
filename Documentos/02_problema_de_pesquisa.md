@@ -1,4 +1,4 @@
-# Etapa 2 — Problema de pesquisa
+# Etapa 2: Problema de pesquisa
 
 ## Solicitação
 

@@ -1,4 +1,4 @@
-# Etapa 7 — Normalização e revisão final
+# Etapa 7: Normalização e revisão final
 
 ## Solicitação
 
@@ -7,7 +7,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 ## Identificação
 
 * Título do artigo: Ética no uso e tratamento de dados pessoais em sistemas digitais
-* Versão revisada: 2 — fontes brasileiras
+* Versão revisada: 2, com fontes brasileiras
 * Data: 29/09/2026
 * Responsáveis pela conferência final: Rafael Vargas e Ryan Belizario.
 
@@ -23,7 +23,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * [x] Toda obra citada aparece nas referências.
 * [x] Toda referência listada foi citada no texto.
-* [x] Citações diretas contêm página — não foram utilizadas citações diretas.
+* [x] Citações diretas contêm página. Não foram utilizadas citações diretas.
 * [x] Autores, títulos, anos, DOI e links foram conferidos na SciELO Brasil.
 * [x] O padrão exigido foi aplicado de forma consistente.
 
@@ -37,10 +37,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Formatação
 
-* [ ] O template institucional foi respeitado — o modelo institucional final não foi fornecido.
+* [ ] O template institucional foi respeitado. O modelo institucional final não foi fornecido.
 * [x] Títulos e subtítulos estão padronizados.
-* [x] Tabelas e figuras possuem identificação e fonte — o artigo não utiliza tabelas ou figuras.
-* [ ] Margens, fonte, espaçamento e paginação foram conferidos — verificar após conversão do Markdown.
+* [x] Tabelas e figuras possuem identificação e fonte. O artigo não utiliza tabelas ou figuras.
+* [ ] Margens, fonte, espaçamento e paginação foram conferidos. A verificação será feita após a conversão do Markdown.
 
 ## Registro das correções
 

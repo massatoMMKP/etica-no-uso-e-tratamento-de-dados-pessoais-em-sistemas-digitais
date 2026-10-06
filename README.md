@@ -54,16 +54,16 @@ Prepare a apresentação (etapa 10)
 
 ## Como preencher cada etapa
 
-1. **Tema** (`01_tema.md`) — delimite objeto, contexto, aspecto analisado e o que ficará de fora. O tema deve caber no prazo e ter literatura suficiente.
-2. **Problema** (`02_problema_de_pesquisa.md`) — transforme o tema em **uma** pergunta respondível só com literatura. Não peça experimento que o grupo não fará.
-3. **Objetivos** (`03_objetivos.md`) — um objetivo geral no infinitivo e três ou quatro específicos alinhados à pergunta.
-4. **Planejamento da busca** (`04_planejamento_da_busca.md`) — termos em português e inglês, strings com `AND`/`OR`, bases e critérios **antes** de triar.
-5. **Triagem** (`05_triagem_dos_artigos.md`) — registre data, string, quantidade real e o motivo de incluir ou excluir cada item. Não invente hits de base.
-6. **Fichamento** (`06_leitura_e_fichamento.md`) — uma ficha por artigo lido por completo: problema, objetivo, método, resultados, limitações e contribuição para a *sua* pergunta. Citação literal só com página.
-7. **Matriz de síntese** (`07_matriz_de_sintese.md`) — agrupe por eixos. Compare convergências, divergências, limitações e lacunas. Não faça uma sequência de resumos.
-8. **Redação** (`08_redacao_do_artigo.md`) — primeira versão do artigo. A introdução termina com o objetivo; a metodologia descreve o que foi feito de fato; a conclusão responde ao problema.
-9. **Normalização** (`09_normalizacao_e_revisao.md`) — confira citações, referências, alinhamento tema–problema–objetivo e limitações.
-10. **Apresentação** (`10_apresentacao.md`) — roteiro, tempos, mensagem principal e respostas a perguntas previsíveis.
+1. **Tema** (`01_tema.md`): delimite objeto, contexto, aspecto analisado e o que ficará de fora. O tema deve caber no prazo e ter literatura suficiente.
+2. **Problema** (`02_problema_de_pesquisa.md`): transforme o tema em **uma** pergunta respondível só com literatura. Não peça experimento que o grupo não fará.
+3. **Objetivos** (`03_objetivos.md`): um objetivo geral no infinitivo e três ou quatro específicos alinhados à pergunta.
+4. **Planejamento da busca** (`04_planejamento_da_busca.md`): termos em português e inglês, strings com `AND`/`OR`, bases e critérios **antes** de triar.
+5. **Triagem** (`05_triagem_dos_artigos.md`): registre data, string, quantidade real e o motivo de incluir ou excluir cada item. Não invente hits de base.
+6. **Fichamento** (`06_leitura_e_fichamento.md`): uma ficha por artigo lido por completo: problema, objetivo, método, resultados, limitações e contribuição para a *sua* pergunta. Citação literal só com página.
+7. **Matriz de síntese** (`07_matriz_de_sintese.md`): agrupe por eixos. Compare convergências, divergências, limitações e lacunas. Não faça uma sequência de resumos.
+8. **Redação** (`08_redacao_do_artigo.md`): primeira versão do artigo. A introdução termina com o objetivo; a metodologia descreve o que foi feito de fato; a conclusão responde ao problema.
+9. **Normalização** (`09_normalizacao_e_revisao.md`): confira citações, referências, alinhamento entre tema, problema e objetivo, além das limitações.
+10. **Apresentação** (`10_apresentacao.md`): roteiro, tempos, mensagem principal e respostas a perguntas previsíveis.
 
 ## Regras que não podem ser quebradas
 

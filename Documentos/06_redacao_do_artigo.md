@@ -1,4 +1,4 @@
-# Etapa 6 — Redação do artigo
+# Etapa 6: Redação do artigo
 
 ## Solicitação
 
@@ -58,7 +58,7 @@ Este artigo analisa os princípios éticos que devem orientar profissionais de T
 
 ## Referências
 
-ALMEIDA, Siderly do Carmo Dahle de; SOARES, Tania Aparecida. Os impactos da Lei Geral de Proteção de Dados — LGPD no cenário digital. *Perspectivas em Ciência da Informação*, v. 27, n. 3, p. 26–45, 2022. DOI: https://doi.org/10.1590/1981-5344/25905.
+ALMEIDA, Siderly do Carmo Dahle de; SOARES, Tania Aparecida. Os impactos da Lei Geral de Proteção de Dados (LGPD) no cenário digital. *Perspectivas em Ciência da Informação*, v. 27, n. 3, p. 26–45, 2022. DOI: https://doi.org/10.1590/1981-5344/25905.
 
 FREUND, Gislaine Parra; MACEDO, Douglas Dyllon Jeronimo de; FAGUNDES, Priscila Basto. Proteção e privacidade de dados: um modelo para o gerenciamento de evidências. *Em Questão*, v. 29, e-128009, 2023. DOI: https://doi.org/10.1590/1808-5245.29.128009.
 
